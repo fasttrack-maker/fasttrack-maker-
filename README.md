@@ -4,7 +4,7 @@
 ## 1. Team Details
 | Name | Role | Email |
 |---|---|---|
-| Sarthak Sonkar | <role> | <email> |
+| Sarthak Sonkar | <TeamLeader> | <sarthakst.francis109@gmail.com> |
 | Supriya Suman | <role> | <email> |
 | Sonam Kumari | <role> | <email> |
 
