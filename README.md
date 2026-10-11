@@ -53,7 +53,7 @@ Wearables 90d ┘  (14d means, trends)                  (state)       └─ wha
 See `` <presentation.pdf>.
 
 ## 10. Demo Video
-Unlisted YouTube link (): `<[paste link here]([https://www.veed.io/ai-studio/32401f1f-7416-4b8b-b53d-8603bc1171da?source=dashboard](https://youtu.be/k3ityQRLrYo?si=CsOVOY8zn_FNKAzi))>`
+Unlisted YouTube link (): `<(https://youtu.be/k3ityQRLrYo?si=CsOVOY8zn_FNKAzi))>`
 
 ## 11. Run Locally
 ```bash
