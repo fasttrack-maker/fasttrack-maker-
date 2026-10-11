@@ -50,7 +50,7 @@ Wearables 90d ┘  (14d means, trends)                  (state)       └─ wha
 ```
 
 ## 9. Presentation
-See `` presentation.pdf.
+See `` <presentation.pdf>.
 
 ## 10. Demo Video
 Unlisted YouTube link (15-20 min): `<paste link here>`
