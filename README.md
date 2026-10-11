@@ -40,4 +40,4 @@ FHIR ingestion, real wearable APIs (Apple Health / Fitbit), temporal twin (state
 SHAP explanations, fairness audit, clinician-in-the-loop review.
 
 ## Team
-<add team name and members>
+<add fast-track-make and Supriya Suman,Sonam Kumari >
