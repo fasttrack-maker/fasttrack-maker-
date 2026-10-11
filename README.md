@@ -40,7 +40,7 @@ Python 3.10+, pandas, NumPy, scikit-learn, Streamlit.
 - Data is fully synthetic; limitations in `docs/ASSUMPTIONS.md`.
 
 ## 8. Architecture Diagram
-See `docs/architecture.pdf` (PDF/PPT).
+See `docs/architecture.pdf` (PDF).
 ```
 EHR snapshot ─┐                       ┌─ risk score + band
               ├─> feature builder ─> calibrated GBM ─> PatientTwin ─┼─ driver attribution
