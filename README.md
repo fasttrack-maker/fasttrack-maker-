@@ -11,7 +11,6 @@
 Team name: CardioSync
 
 ## 2. College / Incubator Information
-IIT Patna (MBA) / `<incubator, if any>`
 
 ## 3. Project Title
 Virtual Patient Digital Twin: Predicting Health Outcomes from EHR and Wearable Data
